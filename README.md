@@ -52,4 +52,5 @@ O gráfico abaixo demonstra a força de cada variável em seu respectivo fator:
 A análise mostrou que a satisfação não é um bloco único. O RH pode, por exemplo, melhorar a retenção através do **Fator 2 (Liderança)** com treinamentos, mesmo em cenários onde o **Fator 1 (Financeiro)** esteja limitado por restrições orçamentárias.
 
 ---
-**Desenvolvido por Douglas** *Estudante de Gestão da TI | Aspirante a Cientista de Dados*
+**Desenvolvido por Douglas Vittori**  
+Estudante de Gestão de TI | Focado em Análise de Dados e Modelagem Estatística
